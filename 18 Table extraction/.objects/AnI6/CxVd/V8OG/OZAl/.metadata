@@ -1,0 +1,14 @@
+﻿{
+  "Name": "editable text Dirección…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "OZAl1GRoHkuYr8ju8H5H0Q",
+  "Reference": "kIy0ShS3UEq80vrkp6v80g/OZAl1GRoHkuYr8ju8H5H0Q",
+  "ParentRef": "kIy0ShS3UEq80vrkp6v80g/V8OG1x6TgkqU4ilkz9wsKQ",
+  "Created": "2026-11-18T15:39:25.7515496Z",
+  "Updated": "2026-11-18T15:39:25.7515496Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

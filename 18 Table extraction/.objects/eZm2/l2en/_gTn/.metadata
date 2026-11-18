@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Firefox Nueva pestaña",
+  "Type": "Screen",
+  "Id": "_gTnv68QpE2ZOXQWGJwQtg",
+  "Reference": "kIy0ShS3UEq80vrkp6v80g/_gTnv68QpE2ZOXQWGJwQtg",
+  "ParentRef": "kIy0ShS3UEq80vrkp6v80g/l2eno_ZIR0uZ4FhLomKO-Q",
+  "Created": "2026-11-17T23:34:11.4499306Z",
+  "Updated": "2026-11-17T23:34:11.4499306Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

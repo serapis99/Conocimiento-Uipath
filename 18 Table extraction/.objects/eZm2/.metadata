@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Firefox Nueva pestaña",
+  "Type": "App",
+  "Id": "eZm2jfQ23USZ5MD1dj9Aiw",
+  "Reference": "kIy0ShS3UEq80vrkp6v80g/eZm2jfQ23USZ5MD1dj9Aiw",
+  "Created": "2026-11-17T23:34:11.224971Z",
+  "Updated": "2026-11-17T23:34:11.224971Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

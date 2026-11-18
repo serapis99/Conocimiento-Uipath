@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Ciruela, Estilo de tabl…",
+  "Type": "Element",
+  "Id": "6IsIkE5cOE2e3FJP7coKYQ",
+  "Reference": "ro8Ebnnp702MZLcJRbxXZw/6IsIkE5cOE2e3FJP7coKYQ",
+  "ParentRef": "ro8Ebnnp702MZLcJRbxXZw/mHTgkpmffUyFbx9uN0WniQ",
+  "Created": "2026-10-30T23:51:18.3966818Z",
+  "Updated": "2026-10-30T23:51:18.3966818Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

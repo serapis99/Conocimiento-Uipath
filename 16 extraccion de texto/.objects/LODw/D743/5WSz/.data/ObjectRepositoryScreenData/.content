@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="BJru9FaNaUCJoXYX_CfcOw" Reference="9_eg5S05b0Sz3CJ0BFIF8A/5WSz0RoL6kiBaTYYIDYuzg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="38, 38, 937, 941" ContentHash="itW3EnuYYEC5p5zFg9sZbQ" FilePath="DoubleUI\DoubleUI.exe" IconBase64="iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAM5SURBVGhD7ZnbThNRFIZ7JS0Dhba8H96KAkJrpxWRk4AoeEx4AB7BeAnIoa2ckYMiJ7mWxHDPzTJr7QN79maSlUxiqZmVfKEBsub7/6y5gUQinnjiiaeuM1DMd5b8wlXZL0BDUSxclEr5zgR+cH54x6hUKrd+xeIT9i83GhTg+vq6IYkD1Jv/N8Dc3BzMzs4GwO/ZvzdZ+wMdHy+g48MvIvceOYfcO+QMcm+RU8i+kcycQHb6BDLTx5B5jfyE8ZXfzl7u80MDcCFpElfS51o6Z0lnDenMK8URZKaOnL1cIgcINn2mmyZ5Ej+2xIUw0v7yh2Dyu7OXS/QAKE6yUnhGnoeSNlpun5LCUpqYOIS2iUNnL5fQANwbdM8jKG03LaSl+PiB4MWBs5f7/NAAXLK3SptNS3GUHj8klHTb2D6RHt1z9nKJHMCU1uK6ZdF0u9G0km4bFeLEyDdnL5fIAXTTWtxqmdiH9NiebhuFieFdaEWGdpy9XEIDcG9Qv4gBaXkaY7JhS1oztAutz3egdXDb2ct9fmgALoGmjZsW0lJcCmPTJExsk3jLsy1oGdxy9nKJHkDdtGrbavo2aQLFBzYFTzedvVwiB0iPSmFbWovLpge3RNtaeoPEvfIGeOV1Zy+X0ADcGzSl00patozC2LRu25L2SsgaeP6as5f7/NAAXMzzaKGmUVy2LM/DlV4n6ebiV429l0v0AOpFDEhj0xvgIUraF02b0s1PatBcqEGqUHX2cokcwJFGYS3tNi2kq4J8FVL5CqT6K85eLqEBuDeoWyZp0bLnC1lPCRvSKS29qkn2rTh7uYQG4GK+iIQpLcVJWDatxfuQFUj2LkOyt44BnPPQ0hIlrYQf30gne5Yh2bMETd1Lzl4u0QM40kbTJL0qpJU4SS9DU/cXwaNFwt7LJTQA9x24Ea7cCAealvQsybYN8YfIAtzrWnD2cgkNwEU17Uir81DSsmlTmngwT9h7uUQPEJA2hEOlhbCNvZdL5AAjn8+Dp4GQ8GKw5a55aDIaNxn+dOrs5RI5QL2JA9QbClDy81eXl+6f9+466Fwu5i8Svt9/Hz9gmkYCi0d3+19m8cQTTzz/dv4CiVAEDxTNbF4AAAAASUVORK5CYII=" Reference="9_eg5S05b0Sz3CJ0BFIF8A/5WSz0RoL6kiBaTYYIDYuzg" Selector="&lt;wnd app='doubleui.exe' cls='HwndWrapper*' title='DoubleUI' /&gt;" Version="V3">
+      <TargetApp.SapInfo>
+        <SAPElementInfo IsSapSubsystem="False" WebAutomationFramework="None" />
+      </TargetApp.SapInfo>
+      <imageRef attrName="InformativeScreenshot" originalValue="4b1cbd5c3d8396868ed51c7b331ca6c1.jpg" xmlns="">0cKZlwlSm9EiiRqRfKYWzDQ</imageRef>
+    </TargetApp>
+    <NInteractionMode x:Key="InteractionMode">HardwareEvents</NInteractionMode>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

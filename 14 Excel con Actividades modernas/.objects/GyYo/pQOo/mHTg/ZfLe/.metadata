@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Dar formato como tabla",
+  "Type": "Element",
+  "Id": "ZfLeMP1x8kqdCg_LsKPDyA",
+  "Reference": "ro8Ebnnp702MZLcJRbxXZw/ZfLeMP1x8kqdCg_LsKPDyA",
+  "ParentRef": "ro8Ebnnp702MZLcJRbxXZw/mHTgkpmffUyFbx9uN0WniQ",
+  "Created": "2026-10-30T23:25:05.8163663Z",
+  "Updated": "2026-10-30T23:25:05.8163663Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

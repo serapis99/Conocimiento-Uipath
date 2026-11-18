@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Blanco, Estilo de tabla…",
+  "Type": "Element",
+  "Id": "3xjvf3ds-EScV0izB3Y3Hg",
+  "Reference": "ro8Ebnnp702MZLcJRbxXZw/3xjvf3ds-EScV0izB3Y3Hg",
+  "ParentRef": "ro8Ebnnp702MZLcJRbxXZw/mHTgkpmffUyFbx9uN0WniQ",
+  "Created": "2026-10-30T23:56:51.8973824Z",
+  "Updated": "2026-10-30T23:56:51.8973824Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

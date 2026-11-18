@@ -1,0 +1,6 @@
+{
+  "Name": "16 extraccion de texto",
+  "ProjectType": "Process",
+  "Description": "Proceso en blanco",
+  "MainFile": "Main.xaml"
+}

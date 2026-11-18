@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Vídeos",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "wi6myGO8yEmhyvS4mDXsHw",
+  "Reference": "kIy0ShS3UEq80vrkp6v80g/wi6myGO8yEmhyvS4mDXsHw",
+  "ParentRef": "kIy0ShS3UEq80vrkp6v80g/V8OG1x6TgkqU4ilkz9wsKQ",
+  "Created": "2026-11-18T15:42:15.1382066Z",
+  "Updated": "2026-11-18T15:42:15.1382066Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
