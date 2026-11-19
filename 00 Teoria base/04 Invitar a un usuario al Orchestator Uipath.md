@@ -49,4 +49,4 @@ Agregamos las licencias del grupo que estamos invitando al usuario en este caso 
 
 ## agregar el usuario a los accesos en Orchestrator
 
-![05 Orchestrator Manager access](05%20Orchestrator%20Manager%20access.md)
+![05 Orchestrator Manager access](00%20Teoria%20base/05%20Orchestrator%20Manager%20access.md)
