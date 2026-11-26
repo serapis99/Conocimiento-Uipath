@@ -151,7 +151,7 @@ Procedimiento:
 4. Escribir el nombre de la variable.
 5. UiPath crea la variable y la asigna a la propiedad seleccionada.
     
-![Pasted image 20261016165814](Pasted%20image%2020261016165814.png)
+![Pasted image 20261016165814](Adjuntos/Pasted%20image%2020261016165814.png)
 
 ### Método 2. Menú contextual
 
@@ -164,7 +164,7 @@ Procedimiento:
 3. Escribir el nombre de la variable.
 4. Configurar su tipo y ámbito desde el panel de variables.
 
-![Pasted image 20261016170031](Pasted%20image%2020261016170031.png)
+![Pasted image 20261016170031](Adjuntos/Pasted%20image%2020261016170031.png)
 
 ### Método 3. Data Manager
 
@@ -178,7 +178,7 @@ Procedimiento:
 4. Asignar un nombre.
 5. Configurar el tipo, ámbito y valor por defecto.
     
-![Pasted image 20261016170404](Pasted%20image%2020261016170404.png)
+![Pasted image 20261016170404](Adjuntos/Pasted%20image%2020261016170404.png)
 
 ## 3. Resumen general
 

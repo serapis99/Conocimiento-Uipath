@@ -28,7 +28,7 @@ Para crear un array en UiPath Studio:
 3. En `Variable Type`, seleccionar el tipo de dato que almacenará el array.
 4. Seleccionar la opción `Array of [T]`, donde `T` representa el tipo de dato de los elementos.
 
-![Pasted image 20261019171542](Pasted%20image%2020261019171542.png)
+![Pasted image 20261019171542](Adjuntos/Pasted%20image%2020261019171542.png)
 
 Por ejemplo, para crear un array de cadenas de texto, seleccionamos:
 

@@ -114,4 +114,4 @@ Por ejemplo, si encontramos `BogotÃ¡` en lugar de `Bogotá`, puede existir un 
 
 ## 6. Referencia visual
 
-![Pasted image 20261101133931](Pasted%20image%2020261101133931.png)
+![Pasted image 20261101133931](Adjuntos/Pasted%20image%2020261101133931.png)

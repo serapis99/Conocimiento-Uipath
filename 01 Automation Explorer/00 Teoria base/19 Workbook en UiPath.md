@@ -37,7 +37,7 @@ Podemos instalarlo desde el administrador de paquetes de UiPath Studio:
     
 Una vez instalado, tendremos disponibles las actividades para trabajar con archivos de Excel.
 
-![Pasted image 20261029145410](Pasted%20image%2020261029145410.png)
+![Pasted image 20261029145410](Adjuntos/Pasted%20image%2020261029145410.png)
 
 ## 2. ¿Qué son las actividades Workbook?
 

@@ -54,7 +54,7 @@ Configuramos el `Switch` utilizando `DiaSemana` como expresión.
 
 Como el valor de `DiaSemana` es `2`, se ejecutará el caso correspondiente a `"Martes"`.
 
-![](Pasted%20image%2020261118090314.png)
+![Pasted image 20261118090314](Adjuntos/Pasted%20image%2020261118090314.png)
 ### Propiedades principales
 
 | Propiedad    | Descripción                                              |
@@ -96,7 +96,7 @@ Configuramos `Flow Switch` con la expresión `TipoDocumento`.
 
 Como el valor es `"CC"`, el flujo seguirá la conexión correspondiente a ese caso.
 
-![](Pasted%20image%2020261118090719.png)
+![Pasted image 20261118090719](Adjuntos/Pasted%20image%2020261118090719.png)
 
 ### Propiedades principales
 

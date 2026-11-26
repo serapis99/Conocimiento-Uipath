@@ -61,4 +61,4 @@ Use Application/Browser
 > [!important] Importante: 
 > `Use Application/Browser` no es una acción como hacer clic o escribir texto. Su función es establecer el contexto de la aplicación o navegador sobre el que se ejecutarán las demás actividades.
 
-![Pasted image 20261101134957](Pasted%20image%2020261101134957.png)
+![Pasted image 20261101134957](Adjuntos/Pasted%20image%2020261101134957.png)

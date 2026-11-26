@@ -43,7 +43,7 @@ Edad >= 18
 |`True`|Then: Mostrar "Mayor de edad".|
 |`False`|Else: Mostrar "Menor de edad".|
 
-![Pasted image 20261019214811](Pasted%20image%2020261019214811.png)
+![Pasted image 20261019214811](Adjuntos/Pasted%20image%2020261019214811.png)
 
 ### Else If
 
@@ -95,7 +95,7 @@ InvoiceAmount > 1000000
 |True|Enviar factura a aprobación especial.|
 |False|Continuar con el proceso normal.|
 
-![Pasted image 20261019215039](Pasted%20image%2020261019215039.png)
+![Pasted image 20261019215039](Adjuntos/Pasted%20image%2020261019215039.png)
 
 Importante sobre las conexiones: En UiPath Flowchart, al conectar las salidas de `Flow Decision`, debes identificar cuál corresponde a `True` y cuál a `False`. 
 

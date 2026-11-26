@@ -65,7 +65,7 @@ El resultado sería:
 5
 ```
 
-![Pasted image 20261020230058](Pasted%20image%2020261020230058.png)
+![Pasted image 20261020230058](Adjuntos/Pasted%20image%2020261020230058.png)
 ## 2. Diferencia entre While y Do While
 
 La diferencia fundamental está en el momento en que se evalúa la condición.

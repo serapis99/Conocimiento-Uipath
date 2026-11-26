@@ -64,7 +64,7 @@ El resultado sería:
 5
 ```
 
-![Pasted image 20261020222512](Pasted%20image%2020261020222512.png)
+![Pasted image 20261020222512](Adjuntos/Pasted%20image%2020261020222512.png)
 
 >[!important] Importante: 
 >La condición se evalúa antes de ejecutar el cuerpo. Por eso, si inicialmente es falsa, las actividades internas no se ejecutan ni una sola vez.
@@ -110,7 +110,7 @@ La estructura sería:
                           └── Volver a evaluar
 ```
 
-![Pasted image 20261020222628](Pasted%20image%2020261020222628.png)
+![Pasted image 20261020222628](Adjuntos/Pasted%20image%2020261020222628.png)
 ## 3. Diferencias entre While en Sequence y Flowchart
 
 | Característica | Sequence                                   | Flowchart                            |

@@ -89,7 +89,7 @@ Puedes crearlas desde el panel `Data Manager` siguiendo estos pasos:
     - `Global Variable`.
     - `Constant`.
         
-![Pasted image 20261020161549](Pasted%20image%2020261020161549.png)
+![Pasted image 20261020161549](Adjuntos/Pasted%20image%2020261020161549.png)
 
 ### Convertir una variable local en global
 
