@@ -4,21 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "cd6623137e458b90",
+        "id": "b9b7ecee7b3c777a",
         "type": "tabs",
+        "dimension": 43.12297734627832,
         "children": [
           {
-            "id": "0d7816d7f7f0b46d",
+            "id": "1b2859079a94ef99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resumen de comandos utilizados en UiPath.md",
+                "file": "00 extras/01 cursos/Uipath Academy - Automation Developer Associate Training (v2024.10).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resumen de comandos utilizados en UiPath"
+              "title": "Uipath Academy - Automation Developer Associate Training (v2024.10)"
+            }
+          }
+        ],
+        "stacked": true
+      },
+      {
+        "id": "29576bd5707124d5",
+        "type": "tabs",
+        "dimension": 56.87702265372169,
+        "children": [
+          {
+            "id": "df53fe46b566bded",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Automation Developer Associate Training/00 Teoria base/01 Qué es la manipulación de datos (Data Manipulation).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 Qué es la manipulación de datos (Data Manipulation)"
             }
           }
         ]
@@ -188,12 +211,16 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "0d7816d7f7f0b46d",
+  "active": "1b2859079a94ef99",
   "lastOpenFiles": [
-    "00 extras/01 cursos/Uipath Academy - Uipath Automation Explorer (v2024.10).md",
-    "00 extras/99 plantilla/curso.md",
+    "02 Automation Developer Associate Training/00 Teoria base/01 Qué es la manipulación de datos (Data Manipulation).md",
+    "00 extras/01 cursos/Uipath Academy - Automation Developer Associate Training (v2024.10).md",
+    "00 extras/01 cursos/Uipath Academy - Automation Explorer (v2024.10).md",
+    "02 Automation Developer Associate Training/00 Teoria base",
+    "01 Automation Explorer/00 Teoria base/02 Plataforma Uipath.md",
     "Readme.md",
     "Resumen de comandos utilizados en UiPath.md",
+    "00 extras/99 plantilla/curso.md",
     "00 extras/99 plantilla/nota.md",
     "00 extras/99 plantilla",
     "00 extras/02 certificados/platzi-power apps y power automate.pdf",
@@ -202,7 +229,7 @@
     "00 extras/01 cursos/Daxus latam - Dominando Power Automate.md",
     "00 extras/01 cursos",
     "00 extras",
-    "Sin nombre",
+    "02 Automation Developer Associate Training",
     "01 Automation Explorer"
   ]
 }
